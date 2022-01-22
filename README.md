@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Paul</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP and Computer Vision**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP and Big Data**
 
 - 📫 How to reach me **johnpaulvadakkumchery@gmail.com**
 
