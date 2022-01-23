@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP and Big Data**
 
-- 📫 How to reach me **johnpaulvadakkumchery@gmail.com**
+- 📫 How to reach me **john.paul.v@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
